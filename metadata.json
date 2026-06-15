@@ -1,0 +1,6 @@
+{
+  "name": "Video Chronological Log Explorer",
+  "description": "An interactive chronological log and system context explorer for parsed videos, integrating visual frames and transcript timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
